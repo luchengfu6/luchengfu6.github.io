@@ -23,16 +23,18 @@ My research is focused on Large Language Models (LLMs) and AI Agents. I am passi
 <h2>Education</h2>
 <ul>
   <li><strong>M.S. in Computational Science and Engineering</strong>, Georgia Institute of Technology, Aug 2025 – present.</li>
-  <li><strong>B.S. in XXX</strong>, Wuhan University, Sep 2021 – Jun 2025.</li>
+  <li><strong>B.S. in Computer Science</strong>, Wuhan University, Sep 2021 – Jun 2025.</li>
 </ul>
 
 
 <h2>Publications</h2>
 
+<p>Guancheng Wan*, <strong>Lucheng Fu*</strong>, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Jiang, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang†, B. Aditya Prakash†, Yizhou Sun†, Wei Wang†. Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE. ICLR 2026 (<a href="https://arxiv.org/abs/2509.24130">Paper</a>) (<a href="https://github.com/GuanchengWan/TARE">Code</a>)</p>
+
 {% include base_path %}
 
 <!-- Render publications on the home page using the same logic as the publications page -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -50,5 +52,5 @@ My research is focused on Large Language Models (LLMs) and AI Agents. I am passi
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
