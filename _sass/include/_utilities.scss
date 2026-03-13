@@ -196,7 +196,39 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
+  .fa, .fas, .fab, .far, .ai {
+    color: #000;
+  }
+
+  .ai-google-scholar {
+    color: #4285F4;
+  }
+
+  .ai-arxiv {
+    color: #B31B1B;
+  }
+
+  .ai-semantic-scholar {
+    color: #1857B6;
+  }
+
+  .ai-pubmed {
+    color: #326599;
+  }
+
+  .ai-researchgate {
+    color: #00CCBB;
+  }
+
+  .ai-impactstory {
+    color: #F36B22;
+  }
+
+  .ai-scopus {
+    color: #E9711C;
+  }
+
+  .ai-inspire {
     color: #000;
   }
 
