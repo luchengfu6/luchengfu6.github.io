@@ -14,20 +14,20 @@ I am a Master's student in Computational Science and Engineering at the Georgia 
 My research is focused on Large Language Models, Prompt Optimization, Robust Machine Learning, and Multi-Agent Systems. I am passionate about exploring the application of these technologies to solve complex problems and build innovative systems.
 
 
-<h2>News</h2>
+<h2><i class="fas fa-newspaper" aria-hidden="true"></i> News</h2>
 <ul>
   <li><strong>Jan 2026</strong> – One paper accepted by ICLR 2026.</li>
   <!-- <li><strong>Month Year</strong> – Another short update.</li> -->
 </ul>
 
-<h2>Education</h2>
+<h2><i class="fas fa-graduation-cap" aria-hidden="true"></i> Education</h2>
 <ul>
   <li><strong>M.S. in Computational Science and Engineering</strong>, Georgia Institute of Technology, Aug 2025 – present.</li>
   <li><strong>B.S. in Computer Science</strong>, Wuhan University, Sep 2021 – Jun 2025.</li>
 </ul>
 
 
-<h2>Publications</h2>
+<h2><i class="fas fa-book-open" aria-hidden="true"></i> Publications</h2>
 
 <p>Guancheng Wan*, <strong>Lucheng Fu*</strong>, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Jiang, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang†, B. Aditya Prakash†, Yizhou Sun†, Wei Wang†. Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE. ICLR 2026 (<a href="https://arxiv.org/abs/2509.24130">Paper</a>) (<a href="https://github.com/GuanchengWan/TARE">Code</a>)</p>
 
