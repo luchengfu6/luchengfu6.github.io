@@ -31,6 +31,12 @@ My research is focused on Large Language Models, Prompt Optimization, Robust Mac
 
 <p>Guancheng Wan*, <strong>Lucheng Fu*</strong>, Haoxin Liu, Yiqiao Jin, Hui Yi Leong, Eric Hanchen Jiang, Hejia Geng, Jinhe Bi, Yunpu Ma, Xiangru Tang†, B. Aditya Prakash†, Yizhou Sun†, Wei Wang†. Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE. ICLR 2026 (<a href="https://arxiv.org/abs/2509.24130">Paper</a>) (<a href="https://github.com/GuanchengWan/TARE">Code</a>)</p>
 
+<p><strong>Lucheng Fu</strong>, Ye Yu, Yiyang Wang, Yiqiao Jin, Haibo Jin, B. Aditya Prakash, Haohan Wang. TextReg: Mitigating Prompt Distributional Overfitting via Regularized Text-Space Optimization. arXiv preprint 2026 (<a href="https://arxiv.org/abs/2605.21318">Paper</a>) (<a href="https://github.com/luchengfu6/TextReg">Code</a>) (<a href="https://textreg.github.io/">Website</a>)</p>
+
+<p>Yiqiao Jin, Yiyang Wang, <strong>Lucheng Fu</strong>, Yijia Xiao, Yinyi Luo, Haoxin Liu, B. Aditya Prakash, Josiah Hester, Jindong Wang, Srijan Kumar. UniSD: Towards a Unified Self-Distillation Framework for Large Language Models. arXiv preprint 2026 (<a href="https://arxiv.org/abs/2605.06597">Paper</a>) (<a href="https://github.com/Ahren09/UniSD">Code</a>) (<a href="https://unifiedsd.github.io/">Website</a>)</p>
+
+<p>Jiaming Qu, <strong>Lucheng Fu</strong>, Yibo Hu. Easier to Mislead Than to Correct: Harmful and Beneficial Revision in LLM Conformity. arXiv preprint 2026 (<a href="https://arxiv.org/abs/2606.01637">Paper</a>) (<a href="https://github.com/yibo-hu-lab/Easier-to-Mislead-Than-to-Correct">Code</a>)</p>
+
 {% include base_path %}
 
 <!-- Render publications on the home page using the same logic as the publications page -->
