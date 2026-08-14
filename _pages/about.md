@@ -13,7 +13,7 @@ redirect_from:
     <h1>Lucheng&nbsp;Fu<span class="dot">.</span></h1>
   </div>
   <div class="aside">
-    <div class="where">M.S. CSE · Georgia Tech<br>Atlanta, GA</div>
+    <div class="where">Ph.D. CSE · Georgia Tech<br>Atlanta, GA</div>
     <div class="nav">
       <a href="https://scholar.google.com/citations?user=Cu6iLY0AAAAJ&hl=en" aria-label="Google Scholar">
         <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4 2 9l10 5 10-5-10-5z" fill="currentColor"/><path d="M6 11.8v3.6c0 1.7 2.7 3.1 6 3.1s6-1.4 6-3.1v-3.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
@@ -32,8 +32,8 @@ redirect_from:
   <div class="tag">About</div>
   <div>
     <p>Hello there! My name is Lucheng Fu.</p>
-    <p>I am a Master's student in Computational Science and Engineering at the Georgia Institute of Technology.</p>
-    <p>My research is focused on <span class="mark">Large Language Models</span>, Prompt Optimization, Robust Machine Learning, and Multi-Agent Systems. I am passionate about exploring the application of these technologies to solve complex problems and build innovative systems.</p>
+    <p>I am a Ph.D. student in Computational Science and Engineering at the Georgia Institute of Technology.</p>
+    <p>My research is focused on <span class="mark">AI for Science</span>, Large Language Models, Prompt Optimization, Robust Machine Learning, and Multi-Agent Systems. I am passionate about exploring the application of these technologies to solve complex problems and build innovative systems.</p>
   </div>
 </div>
 
@@ -119,7 +119,14 @@ redirect_from:
 <div class="eyebrow" id="education"><span class="n">Education</span><span class="ln"></span></div>
 <section>
   <div class="row">
-    <div class="marg"><span class="yr">2025 —</span></div>
+    <div class="marg"><span class="yr">2026 —</span></div>
+    <div class="body">
+      <div class="deg">Ph.D., Computational Science &amp; Engineering</div>
+      <div class="school">Georgia Institute of Technology</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="marg"><span class="yr">2025 – 26</span></div>
     <div class="body">
       <div class="deg">M.S., Computational Science &amp; Engineering</div>
       <div class="school">Georgia Institute of Technology</div>
