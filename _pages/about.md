@@ -32,8 +32,8 @@ redirect_from:
   <div class="tag">About</div>
   <div>
     <p>Hello there! My name is Lucheng Fu.</p>
-    <p>I am a Ph.D. student in Computational Science and Engineering at the Georgia Institute of Technology.</p>
-    <p>My research is focused on <span class="mark">AI for Science</span>, Large Language Models, Prompt Optimization, Robust Machine Learning, and Multi-Agent Systems. I am passionate about exploring the application of these technologies to solve complex problems and build innovative systems.</p>
+    <p>I am a Ph.D. student in Computational Science and Engineering at the Georgia Institute of Technology, advised by <a href="https://faculty.cc.gatech.edu/~badityap/">Prof. B. Aditya Prakash</a>.</p>
+    <p>My research is focused on <span class="mark">AI for Science</span>, <span class="mark">Large Language Models</span>, Robust Machine Learning, Agentic AI, and Prompt Optimization. I am passionate about exploring the application of these technologies to solve complex problems and build innovative systems.</p>
   </div>
 </div>
 
